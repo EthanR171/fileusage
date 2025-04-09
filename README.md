@@ -8,6 +8,7 @@ space each file is using. A good tool to help keep track of a directories fileus
 ## ✨ Technologies
 
 - `C++`
+- `Visual Studio 2022`
 
 ## 🚀 Features
 
