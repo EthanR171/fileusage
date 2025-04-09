@@ -1,7 +1,9 @@
 # 💾 Fileusage
+---
 
 A simple C++ command-line application that recursively traverses directories in a windows based system to report the amount of
 space each file is using. A good tool to help keep track of a directories fileusage!
+
 ---
 
 ## ✨ Technologies
